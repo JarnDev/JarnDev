@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to me personal workspaces, I`m a full stack javascript developer with knowledge in Machine Learning and Computer Vision using Python. My goal as a programer are solve problems, and I use all tools that I can put my hands on.
+Welcome to my personal workspaces, I`m a full stack javascript developer with knowledge in Machine Learning and Computer Vision using Python. My goal as a programer are solve problems, and I use all tools that I can put my hands on.
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> I’m currently working with javascript frameworks as Nodejs, NestJs on bacckend and ReactJs, AngularJs and Pure javascript, html, css on frontend.
 
