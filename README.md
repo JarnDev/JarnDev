@@ -39,6 +39,5 @@ Welcome to my personal workspaces, I`m a full stack javascript developer with kn
 
 :book: I'm currently learning electron to build a small opensource project for myself.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jarndev&theme=tokyonight&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=JarnDev&show_icons=true&hide_border=true&hide=["stars","prs"]&theme=tokyonight)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jarndev&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=JarnDev&show_icons=true&hide_border=true&hide=["stars","prs"])
