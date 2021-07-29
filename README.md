@@ -41,3 +41,5 @@ Welcome to my personal workspaces, I`m a full stack javascript developer with kn
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jarndev&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api?username=JarnDev&show_icons=true&hide_border=true&hide=["stars","prs"])
+
+<a href="https://app.daily.dev/Oranos"><img src="https://api.daily.dev/devcards/0df0f321e73f41c288e707c93fd6ec7f.png?r=cdm" width="400" alt="Alfredo Neto's Dev Card"/></a>
