@@ -130,11 +130,11 @@ Welcome to my personal workspaces, I`m a full stack javascript developer with kn
 
 💻 Gear Specs:
 
-![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Windows-Desktop-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/NVIDIA-RTX3080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![](https://img.shields.io/badge/AMD-Ryzen_9_5900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
-![](https://img.shields.io/badge/Ubuntu-MSI_GE62-000?style=for-the-badge&logo=Ubuntu&logoColor=DD4814)
+![](https://img.shields.io/badge/Ubuntu-Laptop_MSI_GE62-000?style=for-the-badge&logo=Ubuntu&logoColor=DD4814)
 ![](https://img.shields.io/badge/NVIDIA-GTX960M-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![](https://img.shields.io/badge/Intel-Core_i7_5th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
