@@ -1,6 +1,6 @@
 
 <img  align="left" src="https://pm1.narvii.com/6862/4494394a228b98ff79d4a66aef4a9cd3363c37ear1-1500-500v2_hq.jpg" width="70%">
-<a href="https://app.daily.dev/oranos"><img src="https://api.daily.dev/devcards/v2/KzKCnqh59.png?r=ztn&type=default" width="356" alt="Alfredo Neto's Dev Card"/></a>
+<a href="https://app.daily.dev/oranos"><img src="https://api.daily.dev/devcards/v2/KzKCnqh59.png?r=ztn&type=default" width="15%" alt="Alfredo Neto's Dev Card"/></a>
 
 <br><br>
 
