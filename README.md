@@ -2,6 +2,7 @@
 <img  align="left" src="https://pm1.narvii.com/6862/4494394a228b98ff79d4a66aef4a9cd3363c37ear1-1500-500v2_hq.jpg" width="70%">
 <a href="https://app.daily.dev/oranos"><img src="https://api.daily.dev/devcards/v2/KzKCnqh59.png?r=ztn&type=default" width="15%" alt="Alfredo Neto's Dev Card"/></a>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJarnDev&count_bg=%23AF31E3&title_bg=%23000000&icon=gitkraken.svg&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br><br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jarndev/)
