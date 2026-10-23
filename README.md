@@ -7,12 +7,13 @@
   <a href="https://www.linkedin.com/in/jarndev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:alfredo@jarndev.com.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email"/></a>
   <a href="https://stackoverflow.com/users/10048135/alfredo-neto"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>
+  <img src="https://img.shields.io/badge/Discord-jarndev-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: jarndev"/>
 </p>
 
 <p align="center">
   <a href="https://gitfut.com/JarnDev"><img src="https://gitfut.com/JarnDev.png" height="320" alt="My GitFut card"/></a>
   &nbsp;
-  <a href="https://app.daily.dev/oranos"><img src="https://api.daily.dev/devcards/v2/KzKCnqh59.png?r=ztn&type=default" height="320" alt="Alfredo Neto's Dev Card"/></a>
+  <a href="https://app.daily.dev/jarndev"><img src="https://api.daily.dev/devcards/v2/KzKCnqh59.png?r=ztn&type=default" height="320" alt="Alfredo Neto's Dev Card"/></a>
 </p>
 
 ## About
@@ -26,7 +27,7 @@
 ## Building
 
 - 🏢 **Products:** [Ownlar](https://ownlar.com.br), under my company org [jarndev-ltda](https://github.com/jarndev-ltda)
-- 🧰 **Open source:** [autodap.nvim](https://github.com/JarnDev/autodap.nvim) · [clamav-tray](https://github.com/JarnDev/clamav-tray) ([PyPI](https://pypi.org/project/clamav-tray/)) · [gingaloop](https://github.com/JarnDev/gingaloop) ([npm](https://www.npmjs.com/package/gingaloop)) · [wire2parquet](https://github.com/JarnDev/wire2parquet)
+- 🧰 **Open source:** [autodap.nvim](https://github.com/JarnDev/autodap.nvim) · [clamav-tray](https://github.com/JarnDev/clamav-tray) ([PyPI](https://pypi.org/project/clamav-tray/)) · [gingaloop](https://github.com/JarnDev/gingaloop) ([npm](https://www.npmjs.com/package/gingaloop)) · [glance-multi-calendar](https://github.com/JarnDev/glance-multi-calendar) · [wire2parquet](https://github.com/JarnDev/wire2parquet)
 
 ## Stack
 
@@ -78,4 +79,4 @@ Also: LLMs (OpenAI, embeddings, Ollama), Keras, NumPy, Pandas, Jupyter, Gazebo/R
 
 ---
 
-<p align="center"><sub>Elsewhere: <a href="https://twitter.com/JarnDev">X/Twitter</a> · <a href="https://www.instagram.com/alfred_neto/">Instagram</a> · <a href="https://stackexchange.com/users/13916471/alfredo-neto">StackExchange</a> · <a href="https://www.hackerrank.com/jarn_jobs">HackerRank</a> · <a href="https://leetcode.com/JarnDev/">LeetCode</a> · <a href="https://www.codewars.com/users/Jarn40">CodeWars</a> · <a href="https://www.kaggle.com/alfredoneto">Kaggle</a> · <a href="https://app.daily.dev/oranos">daily.dev</a></sub></p>
+<p align="center"><sub>Elsewhere: <a href="https://twitter.com/JarnDev">X/Twitter</a> · <a href="https://www.instagram.com/alfred_neto/">Instagram</a> · <a href="https://stackexchange.com/users/13916471/alfredo-neto">StackExchange</a> · <a href="https://www.hackerrank.com/jarn_jobs">HackerRank</a> · <a href="https://leetcode.com/JarnDev/">LeetCode</a> · <a href="https://www.codewars.com/users/Jarn40">CodeWars</a> · <a href="https://www.kaggle.com/alfredoneto">Kaggle</a> · <a href="https://app.daily.dev/jarndev">daily.dev</a></sub></p>
